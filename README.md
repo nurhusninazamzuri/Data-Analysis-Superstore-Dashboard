@@ -22,4 +22,5 @@ The process included several stages which are:
 - Data visualization - Using Pivot Tables, Charts, and Slicers in Excel to design an interactive dashboard that enables dynamic filtering by year, product category, market segment, and shipping mode.
 
 ## Dashboard
-<img width="1130" height="663" alt="image" src="https://github.com/user-attachments/assets/90d94a56-34dc-48cd-8a0b-15b6f41ad5fc" />
+<img width="1185" height="665" alt="image" src="https://github.com/user-attachments/assets/2100a8b0-df9c-4755-b1a7-84dd8affc179" />
+
