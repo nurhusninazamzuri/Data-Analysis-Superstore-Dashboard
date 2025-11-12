@@ -10,3 +10,4 @@ The main objective of this project is to analyze customer behavior at Superstore
 3. Which product subcategory and city generated the highest revenue or losses?
 4. How do product category, shipping mode and market segment influence the sales and price trend?
 5. Who are the top customers contributing the most to total sales based on category, shipping mode, and segment?
+- Dashboard Interaction <a href="">View Dashboard</a>
