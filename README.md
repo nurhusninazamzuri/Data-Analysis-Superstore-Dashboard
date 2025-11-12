@@ -1,2 +1,4 @@
-# Data-Analysis-Superstore-Dashboard
-Developed a data analysis project in Excel using a Kaggle Superstore dataset (51k rows). Performed data cleaning, transformation, and visualization to build an interactive dashboard highlighting sales, profit, and performance insights.
+# Superstore Sales Analysis
+## Project Objective
+The main objective of this project is to analyze customer behavior at Superstore by examining sales and profit performance across different categories, regions, and customer segments. The goal is to uncover trends that can guide future analysis make strategic decisions in marketing, pricing, and product management.
+## Dataset
