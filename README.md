@@ -24,3 +24,12 @@ The process included several stages which are:
 ## Dashboard
 <img width="1185" height="665" alt="image" src="https://github.com/user-attachments/assets/2100a8b0-df9c-4755-b1a7-84dd8affc179" />
 
+## Project insight
+-	Sales and profit showed more than 20% growth from 2014 to 2015.
+-	The Technology category contributed the highest sales consistently from 2012 to 2015.
+-	Phones and Copiers emerged as the most popular subcategories across all market segments, with New York City being the top purchasing city.
+When the Technology category was sold with the Second Class shipping method among the Customer segment,
+-	The Sales and Price Trend chart (2012–2015) shows fluctuations in sales, with steady growth toward 2015. Moderate pricing levels were linked to higher sales volumes. 
+-	Top 10 Highest Sales by State chart highlights England, California, and Victoria as the top-performing states. 
+## Final conclusion
+The analysis of Superstore’s sales data from 2012 to 2015 reveals clear trends in customer behavior and product performance. Overall sales and profit grew by over 20% from 2014 to 2015, indicating strong business performance. The Technology category consistently led in sales, with Phones and Copiers being the top-performing subcategories. Geographically, New York City, along with states like England, California, and Victoria, emerged as the most significant contributors to revenue. Analysis of shipping methods and customer segments shows that using Second Class shipping for the Technology category drove higher sales volumes, particularly when paired with the Customer segment. Price trends indicate that moderate pricing supported stronger sales, while fluctuations in sales over the years suggest opportunities for targeted marketing and inventory planning. These insights provide a strategic foundation for optimizing product offerings, pricing strategies, and customer engagement across categories, regions, and market segments.
