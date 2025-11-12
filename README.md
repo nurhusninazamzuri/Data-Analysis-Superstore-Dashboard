@@ -28,6 +28,7 @@ The process included several stages which are:
 -	Sales and profit showed more than 20% growth from 2014 to 2015.
 -	The Technology category contributed the highest sales consistently from 2012 to 2015.
 -	Phones and Copiers emerged as the most popular subcategories across all market segments, with New York City being the top purchasing city.
+
 When the Technology category was sold with the Second Class shipping method among the Customer segment,
 -	The Sales and Price Trend chart (2012–2015) shows fluctuations in sales, with steady growth toward 2015. Moderate pricing levels were linked to higher sales volumes. 
 -	Top 10 Highest Sales by State chart highlights England, California, and Victoria as the top-performing states. 
